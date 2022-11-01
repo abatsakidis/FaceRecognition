@@ -1,0 +1,13 @@
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.AssemblyReference.cache
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.frmEnrollment.resources
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.FrmPrincipal.resources
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\bin\Debug\Face Recognition.exe.config
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\bin\Debug\Face Recognition.exe
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\bin\Debug\Face Recognition.pdb
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.CopyComplete
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\abats\OneDrive\Desktop\FaceRecognition\obj\x86\Debug\Face Recognition.pdb
