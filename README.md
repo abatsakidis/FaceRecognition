@@ -5,7 +5,7 @@ Multi Face Recognition and Detection<br>
 
 ## Screenshot
 
-![Alt text](/Screenshot/screen01.JPG?raw=true "FolderIcon")
+![Alt text](/Screenshot/screen01.jpg?raw=true "FaceRecognition")
 
 ## Tested on ##
 
